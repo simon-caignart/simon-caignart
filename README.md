@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+![snake gif](https://github.com/SimonCaignart/SimonCaignart/blob/output/github-contribution-grid-snake.gif)
+
+
+## GitHub Stats
+
+### Watch my contribution graph get eaten by the snake 🐍
 <!--
 **SimonCaignart/SimonCaignart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
