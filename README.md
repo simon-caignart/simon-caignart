@@ -10,5 +10,3 @@ You can visit my [personal website](https://simoncaignart.com) to learn more abo
 ### Watch my contribution graph get eaten by a snake 🐍
 
 ![snake gif](https://github.com/SimonCaignart/SimonCaignart/blob/output/github-contribution-grid-snake.gif)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonCaignart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
