@@ -7,20 +7,20 @@
 <br/>
 <h2 align="center">My Technology Stack</h2>
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/></a>
-<a href="#"><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/VueJs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C%23-9558B2.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/></a>
+<a href="#"><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/VueJs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-MySQL-%23F5F5F5?style=for-the-badge&logo=mysql"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 </p>
 
 <br/>
-<h2 align="center">Contact me</h2>
+<h2 align="center">Contact Me</h2>
 
 <p align="center">
 <a href="mailto: simon.caignart@gmail.com">
@@ -44,4 +44,4 @@
 
 ### Watch my contribution graph get eaten by a snake 🐍
 
-![snake gif](https://github.com/SimonCaignart/SimonCaignart/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SimonCaignart/SimonCaignart/blob/output/github-contribution-grid-snake.svg)
