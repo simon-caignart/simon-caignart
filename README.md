@@ -35,7 +35,7 @@
 </a>
 </a>
 <a href="#">
- <img src="https://img.shields.io/badge/Skrypt_ 1908-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+ <img href="#" src="https://img.shields.io/badge/Skrypt_ 1908-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
   </p>
 
