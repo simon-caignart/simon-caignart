@@ -1,4 +1,5 @@
-![header](https://github.com/SimonCaignart/SimonCaignart/blob/main/header.png)
+<img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/hero.svg" alt="Hero image">
+
 
 #### I am passionate about building excellent software that improves the lives of those around me, coding things from scratch, and bringing ideas to life.
 
