@@ -1,7 +1,8 @@
 <img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/hero.svg" alt="Hero image">
 
 
-#### I am passionate about building excellent software that improves the lives of those around me, coding things from scratch, and bringing ideas to life.
+
+#### I'm a 21 years old software engineer student, passionate about building excellent software that improves the lives of those around me.
 
 #### You can visit my [personal website](https://simoncaignart.com) to learn more about me and my work. 😁
 
