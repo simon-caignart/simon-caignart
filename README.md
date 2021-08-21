@@ -43,6 +43,11 @@
 <br/>
 <h2 align="center">GitHub Stats</h2>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simoncaignart&show_icons=true&title_color=CB1F03&text_color=000000&icon_color=CB1F03&count_private=true" />
+</div>
+
 ### Watch my contribution graph get eaten by a snake 🐍
 
 ![snake gif](https://github.com/SimonCaignart/SimonCaignart/blob/output/github-contribution-grid-snake.svg)
