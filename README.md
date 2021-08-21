@@ -1,4 +1,4 @@
-<img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/header-rounded-transparent2.gif" alt="Header">
+<img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/header-rounded-transparent-big.gif" alt="Header">
 
 #### I'm a 21 years old software engineer student, passionate about building excellent software that improves the lives of those around me.
 
