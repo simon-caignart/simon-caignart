@@ -1,4 +1,4 @@
-<img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/hero.svg" alt="Hero image">
+<img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/header.png" alt="Hero image">
 
 
 
