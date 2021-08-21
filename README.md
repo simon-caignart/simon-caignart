@@ -44,7 +44,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simoncaignart&show_icons=true&title_color=CB1F03&text_color=000000&icon_color=CB1F03&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simoncaignart&show_icons=true&title_color=CB1F03&text_color=000000&icon_color=CB1F03&count_private=true&border_radius=20" />
 </div>
 
 ### Watch my contribution graph get eaten by a snake 🐍
