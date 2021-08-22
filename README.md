@@ -1,4 +1,4 @@
-<img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/header-rounded-transparent-big.gif" alt="Header">
+<img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/header-rounded-transparent.gif" alt="Header">
 
 #### I'm a 21 years old software engineer student, passionate about building excellent software that improves the lives of those around me.
 
@@ -44,7 +44,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simoncaignart&show_icons=true&title_color=000000&bg_color=CC0000&hide_border=true&text_color=000000&icon_color=000000&count_private=true&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simoncaignart&show_icons=true&title_color=CC0000&bg_color=ffffff00&text_color=CC0000&icon_color=CC0000&count_private=true&border_radius=20" />
 </div>
 
 ### Watch my contribution graph get eaten by a snake 🐍
