@@ -45,7 +45,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-simoncaignart.vercel.app/api?username=simoncaignart&show_icons=true&title_color=CC0000&bg_color=ffffff00&text_color=CC0000&icon_color=CC0000&count_private=true&border_radius=20" />
-  <img src="https://github-readme-stats-simoncaignart.vercel.app/api/top-langs/?username=simoncaignart&layout=compact&border_radius=20&count_private=true&text_color=CC0000&title_color=CC0000&bg_color=ffffff00&langs_count=8&hide=jupyter%20notebook"/>
+  <img src="https://github-readme-stats-simoncaignart.vercel.app/api/top-langs/?username=simoncaignart&layout=compact&border_radius=20&count_private=true&text_color=CC0000&title_color=CC0000&bg_color=ffffff00&exclude_repo=github-readme-stats&langs_count=8&hide=jupyter%20notebook"/>
 </div>
 
 ### Watch my contribution graph get eaten by a snake 🐍
