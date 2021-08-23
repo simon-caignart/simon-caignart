@@ -48,7 +48,6 @@
   <img src="https://github-readme-stats-simoncaignart.vercel.app/api/top-langs/?username=simoncaignart&layout=compact&border_radius=20&count_private=true&text_color=CC0000&title_color=CC0000&bg_color=ffffff00"/>
 </div>
 
-
 ### Watch my contribution graph get eaten by a snake 🐍
 
 ![snake gif](https://github.com/SimonCaignart/SimonCaignart/blob/output/github-contribution-grid-snake.svg)
