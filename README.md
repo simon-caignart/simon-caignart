@@ -12,6 +12,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/></a>
 <a href="#"><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/VueJs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white"/></a> 
 <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-MySQL-%23F5F5F5?style=for-the-badge&logo=mysql"/></a>
