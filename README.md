@@ -23,21 +23,21 @@
 <br/>
 <h2 align="center">Contact Me</h2>
 
-<p align="center">
-<a href="mailto: simon.caignart@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/simon-caignart-49768a189">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
- <a href="https://twitter.com/SimonCaignart">
- <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-</a>
-<a href="#">
- <img href="#" src="https://img.shields.io/badge/Skrypt_ 1908-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-  </p>
+<div align="center">
+ <a href="mailto: simon.caignart@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+ <a href="https://linkedin.com/in/simon-caignart-49768a189" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+  <a href="https://twitter.com/SimonCaignart" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+ </a>
+ </a>
+ <a href="https://discordapp.com/users/264385301701591041/" target="_blank">
+  <img src="https://img.shields.io/badge/Skrypt_-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+ </a>
+</div>
 
 
 <br/>
