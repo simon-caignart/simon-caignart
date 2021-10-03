@@ -1,8 +1,8 @@
 <img src="https://github.com/SimonCaignart/SimonCaignart/blob/main/github-banner.gif" alt="Header">
 
-#### I'm a 21 years old software engineer student, passionate about building excellent software that improves the lives of those around me.
+### I'm a 21 years old software engineer student, passionate about building excellent software that improves the lives of those around me.
 
-#### You can visit my [personal website](https://simoncaignart.com) to learn more about me and my work. 😁
+### You can visit my [personal website](https://simoncaignart.com) to learn more about me and my work. 😁
 
 <br/>
 <h2 align="center">My Technology Stack</h2>
